@@ -232,3 +232,4 @@ Join our Nostr community: npub1proof...
 ---
 
 Built with ⚡ for Bitcoin.
+
